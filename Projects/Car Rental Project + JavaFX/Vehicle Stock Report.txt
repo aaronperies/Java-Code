@@ -1,0 +1,204 @@
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: ada, Make: dads, Model: adsa, Rate: 1312.0(per hour), Vehicle Type: Car
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: ada, Make: dads, Model: adsa, Rate: 1312.0(per hour), Vehicle Type: Car
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: ada, Make: sdadsd, Model: asdaad, Rate: 2.0(per hour), Vehicle Type: Car
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: ada, Make: ab, Model: ada, Rate: 3.0(per hour), Vehicle Type: Car
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: ada, Make: ab, Model: ada, Rate: 3.0(per hour), Vehicle Type: Car
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3200.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: MAN-1001, Make: Tesla, Model: Roadster 2017, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: hello123, Make: a, Model: b, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: MAN-1001, Make: Tesla, Model: Roadster 2017, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: hello123, Make: a, Model: b, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: MAN-1001, Make: Tesla, Model: Roadster 2017, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: MAN-1001, Make: Tesla, Model: Roadster 2017, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: BVB-2021, Make: Nissan, Model: Nismo 206, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: GTX-1060, Make: Harley Davidson, Model: Sportster 2016, Rate: 4000.0(per hour), Vehicle Type: Motorbike
+Plate number: MAN-1001, Make: Tesla, Model: Roadster 2017, Rate: 4500.0(per hour), Vehicle Type: Car
+Plate number: POP-101, Make: Honda, Model: Fit 2017, Rate: 2800.0(per hour), Vehicle Type: Car
+Plate number: WXZ-12, Make: BMW, Model: 520D 2015, Rate: 3450.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Yamaha, Model: D3X 2013, Rate: 2000.0(per hour), Vehicle Type: Motorbike
+
+--------------------------End of report------------------------
+

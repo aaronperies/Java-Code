@@ -1,0 +1,23 @@
+The Vehicle Schedule is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Pick up date: 2019-11-29, Drop off date: 2020-11-10
+Booking ID: 145, Plate No: bvb-2021, Pick up date: 2019-12-10, Drop off date: 2019-12-17
+
+--------------------------End of report------------------------
+
+The Vehicle Schedule is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Pick up date: 2019-11-29, Drop off date: 2020-11-10
+Booking ID: 86, Plate No: bvb-2021, Pick up date: 2019-12-17, Drop off date: 2019-12-24
+
+--------------------------End of report------------------------
+
+The Vehicle Schedule is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Pick up date: 2019-11-29, Drop off date: 2020-11-10
+Booking ID: 1, Plate No: wxz-12, Pick up date: 2019-11-29, Drop off date: 2020-11-10
+Booking ID: 1, Plate No: wxz-12, Pick up date: 2019-11-29, Drop off date: 2020-11-10
+Booking ID: 41, Plate No: bvb-2021, Pick up date: 2019-12-17, Drop off date: 2019-12-24
+
+--------------------------End of report------------------------
+

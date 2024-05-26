@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>  <!--Referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Button.html-->
+<?import javafx.scene.control.Label?>   <!--Referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Label.html-->
+<?import javafx.scene.control.TextField?>   <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html-->
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>       <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/text/Font.html -->
+
+<!---set anchor pane for new window and controller-->
+<AnchorPane prefHeight="532.0" prefWidth="744.0" style="-fx-background-color: #4B0091;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Customer.CustomerController">
+      <Label layoutX="260.0" layoutY="82.0" text="Enter your details" textFill="white" >
+          <font> <!--Styling the font I use to give it a more modern look-->
+                <Font name="Century Gothic" size="26.0" />
+          </font>
+      </Label>
+            <Label layoutX="160.0" layoutY="172.0" text="Name:" textFill="white">
+                <font>
+                    <Font name="Century Gothic" size="18"/>
+                </font>
+            </Label>
+                <!--takes in the name as a text-->
+                <TextField fx:id="name" layoutX="279.0" layoutY="167.0" />
+            <Label layoutX="160.0" layoutY="221.0" text="Contact No:" textFill="white">
+                <font>
+                    <Font name="Century Gothic" size="18"/>
+                </font>
+            </Label>
+                <!--takes in the contact no as a text-->
+                <TextField fx:id="number" layoutX="279.0" layoutY="216.0" />
+            <Label layoutX="160.0" layoutY="271.0" text="NIC No:" textFill="white">
+                <font>
+                    <Font name="Century Gothic" size="18"/>
+                </font>
+            </Label>
+                <!--takes in the nic as a text-->
+                <TextField fx:id="nic" layoutX="279.0" layoutY="266.0" />
+            <!--pushes the data into the database-->
+            <Button layoutX="340.0" layoutY="350.0" mnemonicParsing="false" text="Submit" onAction="#assignDetails"/>
+            <Label fx:id="bookedState" layoutX="265.0" layoutY="420.0" textFill="white"> <!--displays that the book has been booked-->
+                <font>
+                    <Font name="Century Gothic" size="18"/>
+                </font>
+            </Label>
+            <!--displays the booking id assigned to the customer-->
+            <Label fx:id="bookingID" layoutY="450.0" layoutX="305" textFill="white">
+                <font>
+                    <Font name="Century Gothic" size="18"/>
+                </font>
+            </Label>
+</AnchorPane>

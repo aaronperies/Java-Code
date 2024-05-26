@@ -1,0 +1,23 @@
+The Customer List is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+Booking ID: 145, Plate No: bvb-2021, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+
+--------------------------End of report------------------------
+
+The Customer List is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+Booking ID: 86, Plate No: bvb-2021, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+
+--------------------------End of report------------------------
+
+The Customer List is as follows: 
+
+Booking ID: 1, Plate No: wxz-12, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+Booking ID: 1, Plate No: wxz-12, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+Booking ID: 1, Plate No: wxz-12, Customer name: Aaron, Contact Details: 0765757668, NIC: 992592354V
+Booking ID: 41, Plate No: bvb-2021, Customer name: AA, Contact Details: 6748464, NIC: 67e474885h
+
+--------------------------End of report------------------------
+

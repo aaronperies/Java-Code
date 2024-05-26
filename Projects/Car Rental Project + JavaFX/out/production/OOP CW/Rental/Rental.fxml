@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>      <!--Referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Button.html-->
+<?import javafx.scene.control.DatePicker?>  <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/DatePicker.html-->
+<?import javafx.scene.control.Label?>       <!--Referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Label.html-->
+<?import javafx.scene.control.RadioButton?> <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/RadioButton.html-->
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>   <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html-->
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.text.Font?>   <!--Import statement and usage was referenced from https://docs.oracle.com/javase/8/javafx/api/javafx/scene/text/Font.html -->
+
+<!--Creating a UI with FXML - https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm-->
+<!--referenced from https://docs.oracle.com/javafx/2/fxml_get_started/fxml_tutorial_intermediate.htm-->
+
+<GridPane alignment="center" hgap="10" prefHeight="736.0" prefWidth="1315.0" vgap="10" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Rental.VehicleController">
+      <AnchorPane prefHeight="735.0" prefWidth="1346.0" style="-fx-background-color: #4B0091;"> <!--changes the background color (doesn't include table)-->
+            <Label layoutX="208.0" layoutY="14.0" prefHeight="73.0" prefWidth="846.0" text="Welcome to Westminster Vehicle Rental Service!" textFill="WHITE">
+               <font> <!--Styling the font I use to give it a more modern look-->
+                  <Font name="Century Gothic" size="36.0" />
+               </font>
+            </Label>
+            <!--using labels for all text fields and radio buttons to distinguish them-->
+            <Label layoutX="1087.0" layoutY="77.0" prefHeight="21.0" prefWidth="139.0" text="Filter vehicles by   -" textFill="WHITE" />
+
+             <!--Constructing the table to display records-->
+             <TableView fx:id="tableManager" layoutX="7.0" layoutY="265.0" prefHeight="470.0" prefWidth="1327.0">
+                 <!--Creates columns-->
+                <columns>
+                    <TableColumn fx:id="columnPlate" prefWidth="104.0" text="Plate Number" /> <!--Creating table view was referenced from https://www.youtube.com/watch?v=UKzx4NRaZyM-->
+                    <TableColumn fx:id="columnMake" prefWidth="105.0" text="Make" />
+                    <TableColumn fx:id="columnModel" prefWidth="114.0" text="Model" />
+                    <TableColumn fx:id="columnRate" prefWidth="101.0" text="Rate (p/h)" />
+                    <TableColumn fx:id="columnCapacity" prefWidth="126.0" text="Seating Capacity" />
+                    <TableColumn fx:id="columnEngine" prefWidth="133.0" text="Engine" />
+                    <TableColumn fx:id="columnCc" prefWidth="97.0" text="CC value" />
+                    <TableColumn fx:id="columnDoor" prefWidth="83.0" text="Door No" />
+                    <TableColumn fx:id="columnAssistance" prefWidth="151.0" text="Assistance" />
+                    <TableColumn fx:id="columnStart" prefWidth="98.0" text="Start Mode" />
+                    <TableColumn fx:id="columnDisc" prefWidth="63.0" text="Disc No" />
+                    <TableColumn fx:id="columnType" prefWidth="127.0" text="Vehicle Type" />
+                </columns>
+             </TableView>                                                            <!--Stops table creation-->
+
+                <!--I'll be using radio buttons to filter the vehicles based on certain properties-->
+                <Label layoutX="1072.0" layoutY="108.0" prefHeight="21.0" prefWidth="64.0" text="Rate   -" textFill="WHITE" />
+                    <RadioButton fx:id="radioRateLess" layoutX="1146.0" layoutY="108.0" mnemonicParsing="false" onAction="#filterRate" text="&lt; 3000" textFill="WHITE" />
+                    <RadioButton fx:id="radioRateMore" layoutX="1148.0" layoutY="134.0" mnemonicParsing="false" onAction="#filterRate" text="&gt;= 3000" textFill="WHITE" />
+                <Label layoutX="1072.0" layoutY="180.0" prefHeight="21.0" prefWidth="84.0" text="Type    -" textFill="WHITE" />
+                    <!--There will be a total of 4 radio buttons-->
+                    <RadioButton fx:id="filterCar" layoutX="1146.0" layoutY="180.0" onAction="#filter" text="Cars" textFill="WHITE" />
+                    <RadioButton fx:id="filterBike" layoutX="1146.0" layoutY="209.0" onAction="#filter" text="Motorbikes" textFill="WHITE" />
+                    <!--This will take in a plate number to search for in the database and return the record-->
+                    <TextField fx:id="searchPlate" layoutX="241.0" layoutY="103.0" onAction="#searchPlateNo" />
+                <Label layoutX="65.0" layoutY="105.0" prefHeight="27.0" prefWidth="161.0" text="Enter Plate number" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Label>
+                <!--purpose of the button is to check the availability of the vehicle-->
+                <Button layoutX="524.0" layoutY="160.0" mnemonicParsing="false" text="Check Availability" onAction="#displayAvailability"/>
+                <Label layoutX="56.0" layoutY="155.0" prefHeight="27.0" prefWidth="170.0" text="Choose Pick-up date" textFill="WHITE">
+                    <font>
+                        <Font size="18.0" />
+                    </font>
+                </Label>
+            <!--displays a calender for the user to choose a date from-->
+            <DatePicker fx:id="pickDate" layoutX="241.0" layoutY="153.0" />
+            <Label layoutX="50.0" layoutY="196.0" prefHeight="27.0" prefWidth="176.0" text="Choose Drop-off date" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <!--displays a calender for the user to choose a date from-->
+            <DatePicker fx:id="dropDate" layoutX="241.0" layoutY="194.0" />
+        <!--displays the availability of the vehicle when the check availability is clicked-->
+        <Label fx:id="status" layoutX="730.0" layoutY="160.0" prefHeight="21.0" prefWidth="195.0" textFill="white" text="Availability Status">
+          <font>
+              <Font size="24.0" />
+          </font>
+        </Label>
+        <!--this button is used to open a new window and enter customer details for booking purposes-->
+        <Button fx:id="bookVehicle" layoutX="768.0" layoutY="204.0" mnemonicParsing="false" onAction="#enterCustomerDetails" text="Book Now" />
+      </AnchorPane>
+</GridPane>

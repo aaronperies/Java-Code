@@ -1,0 +1,20 @@
+The Vehicle Stock List is as follows: 
+
+Plate number: WXZ-12, Make: Tesla, Model: 520D, Rate: 3000.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Harley, Model: 3DX12, Rate: 2500.0(per hour), Vehicle Type: MotorBike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: YTP-010, Make: Harley, Model: 3DX12, Rate: 2500.0(per hour), Vehicle Type: MotorBike
+
+--------------------------End of report------------------------
+
+The Vehicle Stock List is as follows: 
+
+Plate number: WXZ-12, Make: Tesla, Model: 520D, Rate: 3500.0(per hour), Vehicle Type: Car
+Plate number: YTP-010, Make: Harley, Model: 3DX12, Rate: 2500.0(per hour), Vehicle Type: MotorBike
+
+--------------------------End of report------------------------
+
